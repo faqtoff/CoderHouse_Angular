@@ -1,27 +1,26 @@
-# FacundoToffolo
+# CoderHouse - Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.13.
+- Comisión: 29495
+- Comienza: 26 mayo 2022
+- Termina: 26 julio 2022
+- Días: Martes y Jueves
+- Horarios: 21:30 a 23:30hs
+- Zona horaria (*) America/Buenos_Aires
+- Frecuencia de valoraciones: Semanal
+- Profesores: 
+  - Jorge Palacio Barcinilla
+- Tutores
+  - Tutor Mariano Alvez
+  - Pablo García
 
-## Development server
+## Objetivos
+1) Dominar los conceptos iniciales, intermedios y avanzados para realizar un desarrollo basado en Angular y Typescript.
+2) Comprender el concepto de componentes y servicios, para su reutilización en otros proyectos.
+3) Comprender el concepto de módulos, lazy loading, rutas y la organización del proyecto en módulos core, share y feature
+4) Integrar el patrón de estado global Redux y comprender la importancia de su uso utilizando la librería Ngrx
+5) Realizar test unitarios del proyecto front end
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Clases
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+1) Introducción al curso y a Angular
+2) Componentes y Elementos de un proyecto Angular

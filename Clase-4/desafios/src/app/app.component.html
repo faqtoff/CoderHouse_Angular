@@ -1,0 +1,13 @@
+<h1>Desafio 1</h1>
+
+<h2 *ngIf="nombre!==''">Hola {{ nombre }}</h2>
+
+<h3>Mis Familiares son: </h3>
+<ol>
+  <li *ngFor="let familiar of familiares">
+    <span *ngIf="familiar.nombre!==''"> {{familiar.nombre}}</span>
+  </li>
+</ol>
+
+<p [ngClass] =" nombre != '' ? 'verde' : 'amarillo' ">{{contenido1}}</p>
+<p>{{contenido2 | uppercase}}</p>

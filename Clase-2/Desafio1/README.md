@@ -1,18 +1,5 @@
 # CoderHouse - Angular
 
-- Comisión: 29495
-- Comienza: 26 mayo 2022
-- Termina: 26 julio 2022
-- Días: Martes y Jueves
-- Horarios: 21:30 a 23:30hs
-- Zona horaria (*) America/Buenos_Aires
-- Frecuencia de valoraciones: Semanal
-- Profesores: 
-  - Jorge Palacio Barcinilla
-- Tutores
-  - Tutor Mariano Alvez
-  - Pablo García
-
 ## Objetivos
 1) Dominar los conceptos iniciales, intermedios y avanzados para realizar un desarrollo basado en Angular y Typescript.
 2) Comprender el concepto de componentes y servicios, para su reutilización en otros proyectos.

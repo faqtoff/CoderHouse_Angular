@@ -5,7 +5,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { ToolbarComponent } from './toolbar/toolbar.component';
 import { NavbarComponent } from './navbar/navbar.component';
-import { ListStudetsComponent } from './list-studets/list-studets.component';
+import { ListStudetsComponent } from './list-destinos/list-destinos.component';
 
 @NgModule({
   declarations: [
